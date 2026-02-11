@@ -36,7 +36,7 @@ Prodigy-Infotech-Task-3
 │   ├── Age_distribution.png  
 │   ├── Age_distribution_by_age_grp.png  
 │   ├── Fare_distribution_by_survival.png
-│   ├── Survival_rate_by_classl.png  
+│   ├── Survival_rate_by_class.png  
 │   ├── Survival_rate_by_gender.png  
 │   └── survival_count_passenger.png  
 └── README.md  
